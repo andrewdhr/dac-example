@@ -1,11 +1,11 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Awesome Team – Docsy Blog</title><link>/dac-example/blog/</link><description>Recent content in Docsy Blog on Awesome Team</description><generator>Hugo -- gohugo.io</generator><atom:link href="/dac-example/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Easy documentation with Docsy</title><link>/dac-example/blog/2018/10/06/easy-documentation-with-docsy/</link><pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate><guid>/dac-example/blog/2018/10/06/easy-documentation-with-docsy/</guid><description>
-&lt;img src="/dac-example/blog/2018/10/06/easy-documentation-with-docsy/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_640x0_resize_catmullrom_3.png" width="640" height="253"/>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Awesome Team – Our Blog</title><link>/dac-example/blog/</link><description>Recent content in Our Blog on Awesome Team</description><generator>Hugo -- gohugo.io</generator><atom:link href="/dac-example/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Example News Release One</title><link>/dac-example/blog/2018/10/06/example-news-release-one/</link><pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate><guid>/dac-example/blog/2018/10/06/example-news-release-one/</guid><description>
+&lt;img src="/dac-example/blog/2018/10/06/example-news-release-one/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_640x0_resize_catmullrom_3.png" width="640" height="253"/>
 &lt;p>&lt;strong>This is a typical blog post that includes images.&lt;/strong>&lt;/p>
 &lt;p>The front matter specifies the date of the blog post, its title, a short description that will be displayed on the blog landing page, and its author.&lt;/p>
 &lt;h2 id="including-images">Including images&lt;/h2>
 &lt;p>Here&amp;rsquo;s an image (&lt;code>featured-sunset-get.png&lt;/code>) that includes a byline and a caption.&lt;/p>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="/dac-example/dac-example/blog/2018/10/06/easy-documentation-with-docsy/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_3.png" width="600" height="300">
+&lt;img class="card-img-top" src="/dac-example/dac-example/blog/2018/10/06/example-news-release-one/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_3.png" width="600" height="300">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 Fetch and scale an image in the upcoming Hugo 0.43.
@@ -21,7 +21,7 @@ byline: &amp;quot;Photo: Riona MacNamara / CC-BY-CA&amp;quot;
 &lt;/code>&lt;/pre>&lt;p>To include the image in a page, specify its details like this:&lt;/p>
 &lt;pre tabindex="0">&lt;code>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="/dac-example/dac-example/blog/2018/10/06/easy-documentation-with-docsy/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_3.png" width="600" height="300">
+&lt;img class="card-img-top" src="/dac-example/dac-example/blog/2018/10/06/example-news-release-one/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_3.png" width="600" height="300">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 Fetch and scale an image in the upcoming Hugo 0.43.
