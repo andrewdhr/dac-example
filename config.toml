@@ -1,5 +1,5 @@
-# baseURL = "/telus-awesome-team"
-baseURL = "/"
+baseURL = "/dac-example"
+# baseURL = "/"
 title = "Awesome Team"
 
 enableRobotsTXT = true
