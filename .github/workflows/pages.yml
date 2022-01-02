@@ -33,7 +33,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - run: npm ci # This command is similar to npm install, except it's meant to be used in automated environments such as test platforms, continuous integration, and deployment.
+      - run: npm i # This command is similar to npm install, except it's meant to be used in automated environments such as test platforms, continuous integration, and deployment.
       
       - name: Build
         run: hugo --minify # minify HTML, CSS, and JavaScript
