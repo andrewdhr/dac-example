@@ -199,7 +199,7 @@ enable = true
 	icon = "fas fa-folder-open"
         desc = "Our Google Drive folder."
 [[params.links.user]]
-	name = "DevOps"
+	name = "DevOps Repo"
 	url = "https://github.com/"
 	icon = "fas fa-code"
         desc = "Project development takes place here."
@@ -210,7 +210,7 @@ enable = true
         desc = "Our team email at TELUS."
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
-	name = "Docs Repo"
+	name = "GitHub Repo for this Site"
 	url = "https://github.com/andrewdhr/dac-example/"
 	icon = "fab fa-github"
         desc = "The GitHub repository for this wesbite."

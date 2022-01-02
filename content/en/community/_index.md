@@ -1,5 +1,5 @@
 ---
-title: Community
+title: Workspace
 menu:
   main:
     weight: 40
