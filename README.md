@@ -301,17 +301,18 @@ Congratulations! You have now successfully created and set up the source code fo
 
 
 ### Running the website on TELUS GitHub Enterprise Cloud (talk about CI/CD pipeline, copy from the GTLP website repo)
+
+1. Enable GitHub Pages
+
+   Refer to the guide [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+   ![alt text](./readme_pictures/16.png)
+
 1. Push the local changes
    ```bash
    git add .
    git commit -m "change team name"
    git push
    ```
-
-1. Enable GitHub Pages
-
-   Refer to the guide [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
-   ![alt text](./readme_pictures/16.png)
 
 ## Next steps
 Carefully go through the contents folder and study its relationship with the contents on your website. To learn how to write your own documents, please refer to this [content and customization guide](https://www.docsy.dev/docs/adding-content/).
